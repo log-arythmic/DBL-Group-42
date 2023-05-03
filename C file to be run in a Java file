@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main(void){
+  printf("Hello, World!\n");
+
+  return 0;
+}
+
+
+
+/*
+ *==========================================
+ * Title: C Hello World
+ * Author: Connor
+ * Date:   3 May 2023
+ *==========================================
+ */
