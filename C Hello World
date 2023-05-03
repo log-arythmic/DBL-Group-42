@@ -1,11 +1,12 @@
+//imports libraries that enable input and output
 #include <stdio.h>
 
+//self-explanatory 
 int main(void){
   printf("Hello, World!\n");
 
   return 0;
 }
-
 
 
 /*
